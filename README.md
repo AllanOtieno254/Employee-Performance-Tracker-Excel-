@@ -51,6 +51,19 @@ This repository contains an Excel workbook designed to track and evaluate employ
 - Ensure compliance with company policies.
 - Make informed decisions about employment status.
 
+- # Ignore Excel files
+*.xlsx
+*.xls
+
+# Ignore temporary files
+*.tmp
+*.log
+.DS_Store
+
+# Ignore system files
+Thumbs.db
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
